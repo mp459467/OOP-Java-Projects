@@ -1,4 +1,4 @@
-Those above are my first year university projects from obiected oriented programming classes.
+Those above are my first year university projects from obiected oriented programming classes. (1year)
 
 Ruch Miejski project is a simulation of city traffic with trams only.
 
